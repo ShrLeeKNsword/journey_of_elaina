@@ -117,7 +117,7 @@ null,
 {"id":115,"atypeId":2,"description":"【魔法装备】使用魔法石制作而成的魔女服。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"魔女服","note":"","params":[0,0,0,41,30,47,0,0],"price":0},
 {"id":116,"atypeId":2,"description":"【魔法装备】使用魔法石制作而成的魔女服。\n已进行抗寒升级。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":3,"value":0.7}],"iconIndex":139,"name":"魔女服（抗寒）","note":"","params":[0,0,0,43,32,49,0,0],"price":0},
 {"id":117,"atypeId":2,"description":"【魔法装备】使用魔法石制作而成的魔女服。\n已进行抗热升级。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":2,"value":0.7}],"iconIndex":139,"name":"魔女服（抗热）","note":"","params":[0,0,0,43,32,49,0,0],"price":0},
-{"id":118,"atypeId":2,"description":"【魔法装备】使用魔法石制作而成的魔女服。\n同时具备抗寒和抗热功能。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"魔女服（环境抗性）","note":"","params":[0,0,0,46,36,52,0,0],"price":0},
+{"id":118,"atypeId":2,"description":"【魔法装备】使用魔法石制作而成的魔女服。\n同时具备抗寒和抗热功能。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":3,"value":0.7},{"code":11,"dataId":2,"value":0.7}],"iconIndex":139,"name":"魔女服（环境抗性）","note":"","params":[0,0,0,46,36,52,0,0],"price":0},
 {"id":119,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":120,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
