@@ -1,0 +1,264 @@
+﻿Rail (stone)|柵（石）
+Rail (stone)|柵（石）
+Rail (stone)|柵（石）
+Rail (wood)|柵（木材）
+Rail (wood)|柵（木材）
+Rail (wood)|柵（木材）
+Fence decoration (wood)|柵の飾り（木材）
+Fence decoration (wood)|柵の飾り（木材）
+Rail (stone)|柵（石）
+Rail (stone)|柵（石）
+Rail (stone)|柵（石）
+Rail (wood)|柵（木材）
+Rail (wood)|柵（木材）
+Rail (wood)|柵（木材）
+Fence decoration (wood)|柵の飾り（木材）
+Fence decoration (wood)|柵の飾り（木材）
+Rail (stone)|柵（石）
+Rail (stone)|柵（石）
+Rail (stone)|柵（石）
+Rail (wood)|柵（木材）
+Rail (wood)|柵（木材）
+Rail (wood)|柵（木材）
+Fence decoration (wood)|柵の飾り（木材）
+Fence decoration (wood)|柵の飾り（木材）
+Fence decoration (stone)|柵の飾り（石）
+Fence decoration (stone)|柵の飾り（石）
+Stairs (wood)|階段（木材）
+Stairs (wood)|階段（木材）
+Stairs (wood)|階段（木材）
+Stairs (wood)|階段（木材）
+Fence decoration (wood)|柵の飾り（木材）
+Fence decoration (wood)|柵の飾り（木材）
+Fence decoration (stone)|柵の飾り（石）
+Fence decoration (stone)|柵の飾り（石）
+|
+|
+Distorted lattice window|歪んだ格子窓
+Distorted window|歪んだ窓
+Distorted door (open)|歪んだ扉（開）
+Distorted door (closed)|歪んだ扉（閉）
+Fence decoration (stone)|柵の飾り（石）
+Fence decoration (stone)|柵の飾り（石）
+|
+|
+Distorted lattice window|歪んだ格子窓
+Distorted window|歪んだ窓
+Distorted door (open)|歪んだ扉（開）
+Distorted door (closed)|歪んだ扉（閉）
+Fence decoration (stone)|柵の飾り（石）
+Fence decoration (stone)|柵の飾り（石）
+|
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+|
+|
+|
+Distorted pillars|歪んだ柱
+Distorted pillars|歪んだ柱
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted pillars|歪んだ柱
+Distorted pillars|歪んだ柱
+|
+Distorted pillars|歪んだ柱
+Distorted pillars|歪んだ柱
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted pillars|歪んだ柱
+Distorted pillars|歪んだ柱
+|
+|
+Chimney|煙突
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Chimney|煙突
+|
+|
+|
+Chimney|煙突
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Chimney|煙突
+|
+|
+|
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+|
+|
+|
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+|
+|
+|
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+|
+|
+|
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+|
+Distorted roof (navy)|歪んだ屋根（紺）
+Distorted roof (navy)|歪んだ屋根（紺）
+|
+|
+|
+Distorted roof (navy)|歪んだ屋根（紺）
+|
+|
+|
+Distorted roof (navy)|歪んだ屋根（紺）
+|
+Sign of vine with entanglement|蔦絡みの看板
+Signboard of vine with entanglement (sword)|蔦絡みの看板（剣）
+Vine entwined sign (sword and shield)|蔦絡みの看板（剣と盾）
+|
+|
+|
+|
+|
+Signboard of ivy tangle (dining room)|蔦絡みの看板（食堂）
+Signboard of ivy tangle (magic team)|蔦絡みの看板（魔法陣）
+Signboard of ivy tangle (cane)|蔦絡みの看板（杖）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+Signboard of vine (armor)|蔦絡みの看板（鎧）
+Signboard of ivy tangle (bag)|蔦絡みの看板（袋）
+Signboard of ivy tangle (pot)|蔦絡みの看板（ポット）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+Signboard of ivy tangle (coin)|蔦絡みの看板（コイン）
+Viva entangled sign (necklace)|蔦絡みの看板（ネックレス）
+Signboard of ivy tangle (hammer)|蔦絡みの看板（ハンマー）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+Signboard of ivy entanglement (inn)|蔦絡みの看板（宿屋）
+Signboard of vine (pub)|蔦絡みの看板（酒場）
+Vine entwined sign (coat of arms)|蔦絡みの看板（紋章）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+Container of wooden box (plant)|木箱の容器（植物）
+Containers of wooden boxes (suspicious plants)|木箱の容器（怪しい植物）
+Container of wooden box (skull)|木箱の容器（ドクロ）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+|
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+|
+|
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+|
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+|
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+Distorted roof (blue)|歪んだ屋根（青）
+Distorted roof (blue)|歪んだ屋根（青）
+|
+Skull mountain|ドクロの山
+Skull mountain|ドクロの山
+Distorted roof (blue)|歪んだ屋根（青）
+|
+|
+|
+Distorted roof (blue)|歪んだ屋根（青）
+|
+Skull mountain|ドクロの山
+Skull mountain|ドクロの山
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+|
+Skull mountain|ドクロの山
+Skull mountain|ドクロの山
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+|
+A mountain of stone|石の山
+A mountain of stone|石の山
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+Ivy|ツタ
+|
+A mountain of stone|石の山
+A mountain of stone|石の山
+|
+|
+|
+|
+|
+|
+A mountain of stone|石の山
+A mountain of stone|石の山
+|
+|
+|
+|
+|
+|
+A mountain of stone|石の山
+A mountain of stone|石の山
+|
+|
+|
+|
+|
+|

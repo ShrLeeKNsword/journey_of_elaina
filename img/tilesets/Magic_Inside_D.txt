@@ -1,0 +1,256 @@
+﻿
+Tapestry E|タペストリーE
+Tapestry E(ruins)|タペストリーE（廃墟）
+Tapestry F|タペストリーF
+Tapestry F(ruins)|タペストリーF（廃墟）
+Anatomical chart|解剖図
+Large window E(noon)|大型窓E（昼）
+Large window F(night)|大型窓F（夜）
+Paperboard (magic team)|張り紙（魔法陣）
+Tapestry E|タペストリーE
+Tapestry E(ruins)|タペストリーE（廃墟）
+Tapestry F|タペストリーF
+Tapestry F(ruins)|タペストリーF（廃墟）
+Anatomical chart|解剖図
+Large window E(noon)|大型窓E（昼）
+Large window F(night)|大型窓F（夜）
+Spiderweb(upper right)|蜘蛛の巣（右上）
+Portrait C|肖像画C
+Dream Catcher|ドリームキャッチャー
+Cane|杖
+Witch's clothes (wall hanging)|魔女の服（壁掛け）
+Medium size window E|中型窓E
+Medium size window F|中型窓F
+Medium size window G(ruis)|中型窓G（廃墟）
+Spider web (upper left)|蜘蛛の巣（左上）
+Portrait D|肖像画D
+Dream Catcher|ドリームキャッチャー
+lizard|トカゲ
+White coat(wall hanging)|白衣（壁掛け）
+Medium size window E|中型窓E
+Medium size window F|中型窓F
+Medium size window G(ruis)|中型窓G（廃墟）
+Simple shelf F (black cat)|簡易棚F（黒猫）
+Simple shelf G (chemical A)|簡易棚G（薬品A）
+Simple shelf H (chemical B)|簡易棚H（薬品B）
+Simple shelf I (ointment)|簡易棚I（軟膏）
+spider|蜘蛛
+Ornament A (bat)|オーナメントA（コウモリ）
+Ornament B (Jack O Lantern)|オーナメントB（ジャック・オー・ランタン）
+Ornament B (Jack O Lantern)|オーナメントB（ジャック・オー・ランタン）
+Magical plant A|魔法植物A
+Magical plant B|魔法植物B
+Magical plant C|魔法植物C
+Magical plant D|魔法植物D
+Attribute object A (fire)|属性オブジェクトA（炎）
+Attribute object B (ice)|属性オブジェクトB（氷）
+Attribute object C (thunder)|属性オブジェクトC（雷）
+Attribute object D (water)|属性オブジェクトD（水）
+Magical plant A|魔法植物A
+Magical plant B|魔法植物B
+Magical plant C|魔法植物C
+Magical plant D|魔法植物D
+Attribute object A (fire)|属性オブジェクトA（炎）
+Attribute object B (ice)|属性オブジェクトB（氷）
+Attribute object C (thunder)|属性オブジェクトC（雷）
+Attribute object D (water)|属性オブジェクトD（水）
+Dissection table|解剖台
+Trash can (garbage)|ゴミ箱（生ゴミ）
+Birdcage A|鳥カゴA
+Pickled formalin A (table)|ホルマリン漬けA（テーブル）
+Attribute object E (Sat)|属性オブジェクトE（土）
+Attribute object F (wind)|属性オブジェクトF（風）
+Attribute object G (light)|属性オブジェクトG（光）
+Attribute object H (dark)|属性オブジェクトH（闇）
+Dissection table|解剖台
+Surgical instrument|手術器具
+Birdcage A|鳥カゴA
+Pickled formalin A (table)|ホルマリン漬けA（テーブル）
+Attribute object E (Sat)|属性オブジェクトE（土）
+Attribute object F (wind)|属性オブジェクトF（風）
+Attribute object G (light)|属性オブジェクトG（光）
+Attribute object H (dark)|属性オブジェクトH（闇）
+Crystal A (noon)|水晶A（昼）
+Crystal B (evening)|水晶B（夕方）
+Crystal C (night)|水晶C（夜）
+Crystal D (sea)|水晶D（海）
+Crystal E (chaotic)|水晶E（混沌）
+Basket E (herbal)|バスケットE（薬草）
+Basket E (poisonous)|バスケットE（毒草）
+Wooden box H (crystal)|木箱H（クリスタル）
+Crushed crystal A (red)|砕けたクリスタルA（赤）
+Broken Crystal B (Yellow)|砕けたクリスタルB（黄）
+Crushed crystal C (green)|砕けたクリスタルC（緑）
+Crushed crystal D (blue)|砕けたクリスタルD（青）
+Crushed crystal E (purple)|砕けたクリスタルE（紫）
+Crushed crystal F (white)|砕けたクリスタルF（白）
+Broken Crystal G (Blue Green)|砕けたクリスタルG（青緑）
+Crushed crystal H (rainbow)|砕けたクリスタルH（虹）
+Stand Crystal A (Red)|スタンドクリスタルA（赤）
+Stand Crystal B (Yellow)|スタンドクリスタルB（黄）
+Stand Crystal C (Green)|スタンドクリスタルC（緑）
+Stand Crystal D (Blue)|スタンドクリスタルD（青）
+Stand Crystal E (purple)|スタンドクリスタルE（紫）
+Stand Crystal F (White)|スタンドクリスタルF（白）
+Stand Crystal G (Blue Green)|スタンドクリスタルG（青緑）
+Stand Crystal H (Rainbow)|スタンドクリスタルH（虹）
+Stand Crystal A (Red)|スタンドクリスタルA（赤）
+Stand Crystal B (Yellow)|スタンドクリスタルB（黄）
+Stand Crystal C (Green)|スタンドクリスタルC（緑）
+Stand Crystal D (Blue)|スタンドクリスタルD（青）
+Stand Crystal E (purple)|スタンドクリスタルE（紫）
+Stand Crystal F (White)|スタンドクリスタルF（白）
+Stand Crystal G (Blue Green)|スタンドクリスタルG（青緑）
+Stand Crystal H (Rainbow)|スタンドクリスタルH（虹）
+Magic team A (blue)|魔法陣A（青）
+Magic team A (blue)|魔法陣A（青）
+Magic team A (blue)|魔法陣A（青）
+Magic team B (red)|魔法陣B（赤）
+Magic team B (red)|魔法陣B（赤）
+Magic team B (red)|魔法陣B（赤）
+Spell pillar A (blue)|呪文の柱A（青）
+Spell pillar B (red)|呪文の柱B（赤）
+Magic team A (blue)|魔法陣A（青）
+Magic team A (blue)|魔法陣A（青）
+Magic team A (blue)|魔法陣A（青）
+Magic team B (red)|魔法陣B（赤）
+Magic team B (red)|魔法陣B（赤）
+Magic team B (red)|魔法陣B（赤）
+Spell pillar A (blue)|呪文の柱A（青）
+Spell pillar B (red)|呪文の柱B（赤）
+Magic team A (blue)|魔法陣A（青）
+Magic team A (blue)|魔法陣A（青）
+Magic team A (blue)|魔法陣A（青）
+Magic team B (red)|魔法陣B（赤）
+Magic team B (red)|魔法陣B（赤）
+Magic team B (red)|魔法陣B（赤）
+Broken spell pillar A (blue)|折れた呪文の柱A（青）
+Column B (red) broken spell|折れた呪文の柱B（赤）
+Fireplace D|暖炉D
+Large pan A|大きな鍋A
+Large pan A|大きな鍋A
+Large pan A|大きな鍋A
+Medicine ・ Medicinal herb shelf A|薬品・薬草棚A
+Medicine ・ Medicinal herb shelf A|薬品・薬草棚A
+Bookcase C|本棚C
+Bookcase C|本棚C
+Fireplace D|暖炉D
+Large pan A|大きな鍋A
+Large pan A|大きな鍋A
+Large pan A|大きな鍋A
+Medicine ・ Medicinal herb shelf A|薬品・薬草棚A
+Medicine ・ Medicinal herb shelf A|薬品・薬草棚A
+Bookcase C|本棚C
+Bookcase C|本棚C
+Stone mill|石臼
+Alanvic|アランビック
+Mortar|すり鉢
+Powder medicine|粉末薬
+Medicine ・ Medicinal herb shelf B (ruins)|薬品・薬草棚B（廃墟）
+Medicine ・ Medicinal herb shelf B (ruins)|薬品・薬草棚B（廃墟）
+Bookcase D (ruins)|本棚D（廃墟）
+Bookcase D (ruins)|本棚D（廃墟）
+Closed magic book A (lower)|閉じた魔導書A（下）
+Closed magic book B (top)|閉じた魔導書B（上）
+Closed magic book C (left)|閉じた魔導書C（左）
+Closed magic book D (right)|閉じた魔導書D（右）
+Medicine ・ Medicinal herb shelf B (ruins)|薬品・薬草棚B（廃墟）
+Medicine ・ Medicinal herb shelf B (ruins)|薬品・薬草棚B（廃墟）
+Bookcase D (ruins)|本棚D（廃墟）
+Bookcase D (ruins)|本棚D（廃墟）
+Open magic book A (lower)|開いた魔導書A（下）
+Open magic book B (top)|開いた魔導書B（上）
+Open magic book C (left)|開いた魔導書C（左）
+Open magic book D (right)|開いた魔導書D（右）
+Rune stone A|ルーン文字の石A
+Rune stone B|ルーン文字の石B
+A broom|ほうき
+Alcohol lamp|アルコールランプ
+Laboratory instrument (large)|実験器具（大）
+Microscope|顕微鏡
+Liquid filled bottle C|液体入り瓶C
+Formalin pickled B (contents of a mystery)|ホルマリン漬けB（謎の中身）
+Formalin pickled B (empty)|ホルマリン漬けB（空っぽ）
+Upper balance|上皿天秤
+Jack O Lantern A|ジャック・オー・ランタンA
+Jack O Lantern B|ジャック・オー・ランタンB
+Table D|テーブルD
+Drafting table A (blue print)|製図台A（ブループリント）
+Drafting table B (design drawing)|製図台B（設計図）
+Hat rack|帽子掛け
+Chair D (upper)|椅子D（上）
+Chair D (right)|椅子D（右）
+Chair D (left)|椅子D（左）
+Chair D (lower)|椅子D（下）
+Table D (leg)|テーブルD（脚）
+Drafting base (leg)|製図台（脚）
+Memo and pen (spell)|メモとペン（呪文）
+Hat rack|帽子掛け
+Witch gloves|魔女の手袋
+Witch's shoes|魔女の靴
+Glasses|眼鏡
+Chair D (lower)|椅子D（下）
+Skeleton C|骸骨C
+A skeleton mountain|骸骨の山
+Tarot card back (3)|タロットカード裏（３枚）
+Tarot card back (5)|タロットカード裏（５枚）
+Horoscope|ホロスコープ
+Horoscope|ホロスコープ
+Celestial sphere|天球儀
+Celestial sphere|天球儀
+Page of scattered magical books|散らばった魔導書のページ
+Skewered newt|串刺しイモリ
+Tarot Card Table (3)|タロットカード表（３枚）
+Tarot Card Table (5)|タロットカード表（５枚）
+Horoscope|ホロスコープ
+Horoscope|ホロスコープ
+Celestial sphere|天球儀
+Celestial sphere|天球儀
+Large light ball|大きな光の玉
+Large light ball|大きな光の玉
+Large light ball|大きな光の玉
+Spots A (brown)|シミA（茶）
+Carpet G (upper left)|じゅうたんG（左上）
+Carpet G (top)|じゅうたんG（上）
+Carpet G (upper right)|じゅうたんG（右上）
+Carpet G (left)|じゅうたんG（左）
+Large light ball|大きな光の玉
+Large light ball|大きな光の玉
+Large light ball|大きな光の玉
+Spot B (red)|シミB（赤）
+Carpet G (lower left)|じゅうたんG（左下）
+Carpet G (lower)|じゅうたんG（下）
+Carpet G (lower right)|じゅうたんG（右下）
+Carpet G (right)|じゅうたんG（右）
+Bed A (upper)|ベッドA（上）
+Bed A (lower)|ベッドA（下）
+Bed quilt A (top)|ベッドの掛け布団A（上）
+Bed quilt A (lower)|ベッドの掛け布団A（下）
+Carpet G (lower right corner)|じゅうたんG（右下角）
+Carpet G (lower left corner)|じゅうたんG（左下角）
+Carpet G (small ・ left)|じゅうたんG（小・左）
+Carpet G (small ・ right)|じゅうたんG（小・右）
+Bed A (upper)|ベッドA（上）
+Bed A (lower)|ベッドA（下）
+Bed quilt A (top)|ベッドの掛け布団A（上）
+Bed quilt A (lower)|ベッドの掛け布団A（下）
+Carpet G (upper right corner)|じゅうたんG（右上角）
+Carpet G (upper left corner)|じゅうたんG（左上角）
+Carpet G (Medium)|じゅうたんG（中）
+Carpet G (small)|じゅうたんG（小）
+Bed A (left)|ベッドA（左）
+Bed A (left)|ベッドA（左）
+Bed quilt A (left)|ベッドの掛け布団A（左）
+Bed quilt A (left)|ベッドの掛け布団A（左）
+Carpet E (pattern)|じゅうたんE（模様）
+Carpet E (pattern)|じゅうたんE（模様）
+Carpet G (pattern)|じゅうたんG（模様）
+Carpet G (pattern)|じゅうたんG（模様）
+Bed A (right)|ベッドA（右）
+Bed A (right)|ベッドA（右）
+Bed quilt A (right)|ベッドの掛け布団A（右）
+Bed quilt A (right)|ベッドの掛け布団A（右）
+Carpet E (pattern)|じゅうたんE（模様）
+Carpet E (pattern)|じゅうたんE（模様）
+Carpet G (pattern)|じゅうたんG（模様）
+Carpet G (pattern)|じゅうたんG（模様）

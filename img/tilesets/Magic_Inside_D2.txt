@@ -1,0 +1,256 @@
+﻿Mysterious piano|神秘的なピアノ
+Mysterious piano|神秘的なピアノ
+Mysterious piano|神秘的なピアノ
+Telescope|望遠鏡
+Telescope|望遠鏡
+Bird B (brown bird)|鳥カゴB（茶色い鳥）
+Birdcage C (no contents)|鳥カゴC（中身なし）
+High table|高めのテーブル
+Mysterious piano|神秘的なピアノ
+Mysterious piano|神秘的なピアノ
+Mysterious piano|神秘的なピアノ
+Telescope|望遠鏡
+Telescope|望遠鏡
+Bird B (brown bird)|鳥カゴB（茶色い鳥）
+Birdcage C (no contents)|鳥カゴC（中身なし）
+High table|高めのテーブル
+Magic team C (red)|魔法陣C（赤）
+Magic team C (red)|魔法陣C（赤）
+Magic team C (red)|魔法陣C（赤）
+Magic team D (Yellow)|魔法陣D（黄）
+Magic team D (Yellow)|魔法陣D（黄）
+Magic team D (Yellow)|魔法陣D（黄）
+Attribute object I (flame)|属性オブジェクトI（炎）
+Attribute object J (ice)|属性オブジェクトJ（氷）
+Magic team C (red)|魔法陣C（赤）
+Magic team C (red)|魔法陣C（赤）
+Magic team C (red)|魔法陣C（赤）
+Magic team D (Yellow)|魔法陣D（黄）
+Magic team D (Yellow)|魔法陣D（黄）
+Magic team D (Yellow)|魔法陣D（黄）
+Attribute object I (flame)|属性オブジェクトI（炎）
+Attribute object J (ice)|属性オブジェクトJ（氷）
+Magic team C (red)|魔法陣C（赤）
+Magic team C (red)|魔法陣C（赤）
+Magic team C (red)|魔法陣C（赤）
+Magic team D (Yellow)|魔法陣D（黄）
+Magic team D (Yellow)|魔法陣D（黄）
+Magic team D (Yellow)|魔法陣D（黄）
+Attribute object K (thunder)|属性オブジェクトK（雷）
+Attribute object L (water)|属性オブジェクトL（水）
+Magic team E (green)|魔法陣E（緑）
+Magic team E (green)|魔法陣E（緑）
+Magic team E (green)|魔法陣E（緑）
+Magic team F (blue)|魔法陣F（青）
+Magic team F (blue)|魔法陣F（青）
+Magic team F (blue)|魔法陣F（青）
+Attribute object K (thunder)|属性オブジェクトK（雷）
+Attribute object L (water)|属性オブジェクトL（水）
+Magic team E (green)|魔法陣E（緑）
+Magic team E (green)|魔法陣E（緑）
+Magic team E (green)|魔法陣E（緑）
+Magic team F (blue)|魔法陣F（青）
+Magic team F (blue)|魔法陣F（青）
+Magic team F (blue)|魔法陣F（青）
+Attribute object M (Sat)|属性オブジェクトM（土）
+Attribute object N (wind)|属性オブジェクトN（風）
+Magic team E (green)|魔法陣E（緑）
+Magic team E (green)|魔法陣E（緑）
+Magic team E (green)|魔法陣E（緑）
+Magic team F (blue)|魔法陣F（青）
+Magic team F (blue)|魔法陣F（青）
+Magic team F (blue)|魔法陣F（青）
+Attribute object M (Sat)|属性オブジェクトM（土）
+Attribute object N (wind)|属性オブジェクトN（風）
+Magic team G (purple)|魔法陣G（紫）
+Magic team G (purple)|魔法陣G（紫）
+Magic team G (purple)|魔法陣G（紫）
+Magic team H (white)|魔法陣H（白）
+Magic team H (white)|魔法陣H（白）
+Magic team H (white)|魔法陣H（白）
+Attribute object O (light)|属性オブジェクトO（光）
+Attribute object P (dark)|属性オブジェクトP（闇）
+Magic team G (purple)|魔法陣G（紫）
+Magic team G (purple)|魔法陣G（紫）
+Magic team G (purple)|魔法陣G（紫）
+Magic team H (white)|魔法陣H（白）
+Magic team H (white)|魔法陣H（白）
+Magic team H (white)|魔法陣H（白）
+Attribute object O (light)|属性オブジェクトO（光）
+Attribute object P (dark)|属性オブジェクトP（闇）
+Magic team G (purple)|魔法陣G（紫）
+Magic team G (purple)|魔法陣G（紫）
+Magic team G (purple)|魔法陣G（紫）
+Magic team H (white)|魔法陣H（白）
+Magic team H (white)|魔法陣H（白）
+Magic team H (white)|魔法陣H（白）
+Spell pillar C (green)|呪文の柱C（緑）
+Spell pillar D (white)|呪文の柱D（白）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team J (rainbow)|魔法陣J（虹）
+Magic team J (rainbow)|魔法陣J（虹）
+Magic team J (rainbow)|魔法陣J（虹）
+Spell pillar C (green)|呪文の柱C（緑）
+Spell pillar D (white)|呪文の柱D（白）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team J (rainbow)|魔法陣J（虹）
+Magic team J (rainbow)|魔法陣J（虹）
+Magic team J (rainbow)|魔法陣J（虹）
+Spell pillar C (green)|呪文の柱C（緑）
+Spell pillar D (white)|呪文の柱D（白）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team I (blue green)|魔法陣I（青緑）
+Magic team J (rainbow)|魔法陣J（虹）
+Magic team J (rainbow)|魔法陣J（虹）
+Magic team J (rainbow)|魔法陣J（虹）
+Portrait C (Horror)|肖像画C（ホラー）
+Portrait D (Horror)|肖像画D（ホラー）
+Small magic team A (red)|小さい魔法陣A（赤）
+Small magic team B (Yellow)|小さい魔法陣B（黄）
+Small magic team C (green)|小さい魔法陣C（緑）
+Small magic team D (blue)|小さい魔法陣D（青）
+Small magic team E (purple)|小さい魔法陣E（紫）
+Small magic team F (white)|小さい魔法陣F（白）
+Small magic team G (blue green)|小さい魔法陣G（青緑）
+Small magic team H (rainbow)|小さい魔法陣H（虹）
+Closed magic book E (bottom)|閉じた魔導書E（下）
+Closed magic book F (top)|閉じた魔導書F（上）
+Closed magic book G (left)|閉じた魔導書G（左）
+Closed magic book H (right)|閉じた魔導書H（右）
+Open magic book E (bottom)|開いた魔導書E（下）
+Open magic book F (top)|開いた魔導書F（上）
+Open magic book G (left)|開いた魔導書G（左）
+Open magic book H (right)|開いた魔導書H（右）
+Chair E (top)|椅子E（上）
+Chair E (right)|椅子E（右）
+Chair E (left)|椅子E（左）
+Chair E (lower)|椅子E（下）
+Chair F (top)|椅子F（上）
+Chair F (right)|椅子F（右）
+Chair F (left)|椅子F（左）
+Chair F (bottom)|椅子F（下）
+Chair G (top)|椅子G（上）
+Chair G (right)|椅子G（右）
+Chair G (left)|椅子G（左）
+Chair E (lower)|椅子E（下）
+Chair H (upper)|椅子H（上）
+Chair H (right)|椅子H（右）
+Chair H (left)|椅子H（左）
+Chair F (bottom)|椅子F（下）
+Large pan B|大きな鍋B
+Large pan B|大きな鍋B
+Large pan B|大きな鍋B
+Chair G (lower)|椅子G（下）
+A big dark ball|大きな闇の玉
+A big dark ball|大きな闇の玉
+A big dark ball|大きな闇の玉
+Chair H (lower)|椅子H（下）
+Large pan B|大きな鍋B
+Large pan B|大きな鍋B
+Large pan B|大きな鍋B
+Chair G (lower)|椅子G（下）
+A big dark ball|大きな闇の玉
+A big dark ball|大きな闇の玉
+A big dark ball|大きな闇の玉
+Chair H (lower)|椅子H（下）
+Medicine ・ Medicinal herb shelf C|薬品・薬草棚C
+Medicine ・ Medicinal herb shelf C|薬品・薬草棚C
+Bookshelf E|本棚E
+Bookshelf E|本棚E
+Medicine ・ Medicinal herb shelf D|薬品・薬草棚D
+Medicine ・ Medicinal herb shelf D|薬品・薬草棚D
+Bookcase F|本棚F
+Bookcase F|本棚F
+Medicine ・ Medicinal herb shelf C|薬品・薬草棚C
+Medicine ・ Medicinal herb shelf C|薬品・薬草棚C
+Bookshelf E|本棚E
+Bookshelf E|本棚E
+Medicine ・ Medicinal herb shelf D|薬品・薬草棚D
+Medicine ・ Medicinal herb shelf D|薬品・薬草棚D
+Bookcase F|本棚F
+Bookcase F|本棚F
+Medicine ・ Medicinal herb shelf E (ruins)|薬品・薬草棚E（廃墟）
+Medicine ・ Medicinal herb shelf E (ruins)|薬品・薬草棚E（廃墟）
+Bookcase G (ruins)|本棚G（廃墟）
+Bookcase G (ruins)|本棚G（廃墟）
+Medicine ・ Medicinal herb shelf F (ruins)|薬品・薬草棚F（廃墟）
+Medicine ・ Medicinal herb shelf F (ruins)|薬品・薬草棚F（廃墟）
+Bookshelf H (ruins)|本棚H（廃墟）
+Bookshelf H (ruins)|本棚H（廃墟）
+Medicine ・ Medicinal herb shelf E (ruins)|薬品・薬草棚E（廃墟）
+Medicine ・ Medicinal herb shelf E (ruins)|薬品・薬草棚E（廃墟）
+Bookcase G (ruins)|本棚G（廃墟）
+Bookcase G (ruins)|本棚G（廃墟）
+Medicine ・ Medicinal herb shelf F (ruins)|薬品・薬草棚F（廃墟）
+Medicine ・ Medicinal herb shelf F (ruins)|薬品・薬草棚F（廃墟）
+Bookshelf H (ruins)|本棚H（廃墟）
+Bookshelf H (ruins)|本棚H（廃墟）
+Bed B (upper)|ベッドB（上）
+Bed B (bottom)|ベッドB（下）
+Bed quilt B (top)|ベッドの掛け布団B（上）
+Bed quilt B (lower)|ベッドの掛け布団B（下）
+Bed C (upper)|ベッドC（上）
+Bed C (lower)|ベッドC（下）
+Bed quilt C (top)|ベッドの掛け布団C（上）
+Bed quilt C (lower)|ベッドの掛け布団C（下）
+Bed B (upper)|ベッドB（上）
+Bed B (bottom)|ベッドB（下）
+Bed quilt B (top)|ベッドの掛け布団B（上）
+Bed quilt B (lower)|ベッドの掛け布団B（下）
+Bed C (upper)|ベッドC（上）
+Bed C (lower)|ベッドC（下）
+Bed quilt C (top)|ベッドの掛け布団C（上）
+Bed quilt C (lower)|ベッドの掛け布団C（下）
+Bed B (left)|ベッドB（左）
+Bed B (left)|ベッドB（左）
+Bed quilt B (left)|ベッドの掛け布団B（左）
+Bed quilt B (left)|ベッドの掛け布団B（左）
+Bed C (left)|ベッドC（左）
+Bed C (left)|ベッドC（左）
+Bed quilt C (left)|ベッドの掛け布団C（左）
+Bed quilt C (left)|ベッドの掛け布団C（左）
+Bed B (right)|ベッドB（右）
+Bed B (right)|ベッドB（右）
+Bed quilt B (right)|ベッドの掛け布団B（右）
+Bed quilt B (right)|ベッドの掛け布団B（右）
+Bed C (right)|ベッドC（右）
+Bed C (right)|ベッドC（右）
+Bed quilt C (right)|ベッドの掛け布団C（右）
+Bed quilt C (right)|ベッドの掛け布団C（右）
+Carpet H (upper left)|じゅうたんH（左上）
+Carpet H (top)|じゅうたんH（上）
+Carpet H (upper right)|じゅうたんH（右上）
+Carpet H (left)|じゅうたんH（左）
+Carpet I (upper left)|じゅうたんI（左上）
+Carpet I (top)|じゅうたんI（上）
+Carpet I (upper right)|じゅうたんI（右上）
+Carpet I (left)|じゅうたんI（左）
+Carpet H (bottom left)|じゅうたんH（左下）
+Carpet H (bottom)|じゅうたんH（下）
+Carpet H (lower right)|じゅうたんH（右下）
+Carpet H (right)|じゅうたんH（右）
+Carpet I (lower left)|じゅうたんI（左下）
+Carpet I (Bottom)|じゅうたんI（下）
+Carpet I (lower right)|じゅうたんI（右下）
+Carpet I (right)|じゅうたんI（右）
+Carpet H (lower right corner)|じゅうたんH（右下角）
+Carpet H (lower left corner)|じゅうたんH（左下角）
+Carpet H (small left)|じゅうたんH（小・左）
+Carpet H (small right)|じゅうたんH（小・右）
+Carpet I (lower right corner)|じゅうたんI（右下角）
+Carpet I (lower left corner)|じゅうたんI（左下角）
+Carpet I (small left)|じゅうたんI（小・左）
+Carpet I (small right)|じゅうたんI（小・右）
+Carpet H (upper right corner)|じゅうたんH（右上角）
+Carpet H (upper left corner)|じゅうたんH（左上角）
+Carpet H (Medium)|じゅうたんH（中）
+Carpet H (Small)|じゅうたんH（小）
+Carpet I (upper right corner)|じゅうたんI（右上角）
+Carpet I (upper left corner)|じゅうたんI（左上角）
+Carpet I (Medium)|じゅうたんI（中）
+Carpet I (Small)|じゅうたんI（小）

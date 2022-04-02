@@ -1,0 +1,256 @@
+﻿Transparent|透明
+|
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+|
+|
+|
+Flag sticker (green yellow)|旗ステッカー（緑・黄）
+Flag sticker (striped white)|旗ステッカー（縞・白）
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+|
+|
+|
+Flag sticker (white red)|旗ステッカー（白・赤）
+Flag sticker (red yellow)|旗ステッカー（赤・黄）
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+Rocket: Satellite fairing|ロケット：衛星フェアリング
+Hose (Orange)|ホース（橙）
+Hose (Orange)|ホース（橙）
+Hose (Orange)|ホース（橙）
+Flag sticker (red white)|旗ステッカー（赤・白）
+Flag sticker (blue red white)|旗ステッカー（青赤・白）
+Rocket: Satellite fairing separation surface|ロケット：衛星フェアリング分離面
+Rocket: Satellite fairing separation surface|ロケット：衛星フェアリング分離面
+Rocket: Satellite fairing separation surface|ロケット：衛星フェアリング分離面
+Hose (blue)|ホース（青）
+Hose (blue)|ホース（青）
+Hose (blue)|ホース（青）
+Logotype sticker|ロゴタイプステッカー
+|
+Rocket: second stage|ロケット：第2段
+Rocket: second stage|ロケット：第2段
+Rocket: second stage|ロケット：第2段
+Power cable|電源ケーブル
+Power cable|電源ケーブル
+Power cable|電源ケーブル
+Aircraft name sticker|機体名ステッカー
+|
+Rocket: First stage|ロケット：第1段
+Rocket: First stage|ロケット：第1段
+Rocket: First stage|ロケット：第1段
+Power cable|電源ケーブル
+Power cable|電源ケーブル
+Power cable|電源ケーブル
+Aircraft name sticker|機体名ステッカー
+|
+Rocket: First stage|ロケット：第1段
+Rocket: First stage|ロケット：第1段
+Rocket: First stage|ロケット：第1段
+|
+|
+|
+Logo Mark Sticker|ロゴマークステッカー
+Rocket Booster (left)|ロケットブースター（左）
+Rocket: First stage|ロケット：第1段
+Rocket: First stage|ロケット：第1段
+Rocket: First stage|ロケット：第1段
+Rocket Booster (Right)|ロケットブースター（右）
+Rocket Booster|ロケットブースター
+|
+|
+Rocket Booster (left)|ロケットブースター（左）
+Rocket: First stage Booster strut|ロケット：第1段・ブースター支柱
+Rocket Booster (front)|ロケットブースター（手前）
+Rocket: First stage Booster strut|ロケット：第1段・ブースター支柱
+Rocket Booster (Right)|ロケットブースター（右）
+Rocket Booster|ロケットブースター
+|
+|
+Rocket Booster (left)|ロケットブースター（左）
+Rocket: First stage Booster strut|ロケット：第1段・ブースター支柱
+Rocket Booster (front)|ロケットブースター（手前）
+Rocket: First stage Booster strut|ロケット：第1段・ブースター支柱
+Rocket Booster (Right)|ロケットブースター（右）
+Rocket Booster|ロケットブースター
+|
+|
+|
+Rocket: First stage engine|ロケット：第1段エンジン
+Rocket Booster (front)|ロケットブースター（手前）
+Rocket: First stage engine|ロケット：第1段エンジン
+Rocket: Shadow|ロケット：影
+|
+|
+Lightning rod: tip|避雷針：先端
+Lightning rod: tip|避雷針：先端
+Lightning rod: tip|避雷針：先端
+Lightning rod: tip|避雷針：先端
+|
+|
+|
+|
+Lightning rod: tip|避雷針：先端
+Lightning rod: tip|避雷針：先端
+Lightning rod: tip|避雷針：先端
+Lightning rod: tip|避雷針：先端
+Move launching pad (wall)|移動発射台（壁）
+Move launching pad (floor)|移動発射台（床）
+Move launching pad (wall)|移動発射台（壁）
+|
+Lightning rod|避雷針
+Lightning rod|避雷針
+Lightning rod|避雷針
+Lightning rod|避雷針
+Move launching pad (wall)|移動発射台（壁）
+Move launching pad (wall)|移動発射台（壁）
+Move launching pad (wall)|移動発射台（壁）
+|
+Lightning rod (lower part)|避雷針（下部）
+Lightning rod (lower part)|避雷針（下部）
+Lightning rod (lower part)|避雷針（下部）
+Lightning rod (lower part)|避雷針（下部）
+Move launch table (lower part)|移動発射台（下部）
+Move launching pad (wall / window)|移動発射台（壁・窓）
+Move launch table (lower part)|移動発射台（下部）
+|
+Lightning rod (lower part)|避雷針（下部）
+Lightning rod (lower part)|避雷針（下部）
+Lightning rod (lower part)|避雷針（下部）
+Lightning rod (lower part)|避雷針（下部）
+Move launch table (lower part)|移動発射台（下部）
+Move launch table (lower part)|移動発射台（下部）
+Move launch table (lower part)|移動発射台（下部）
+|
+|
+|
+
+|
+Yellow line (left)|黄ライン（左）
+Yellow line (right)|黄ライン（右）
+Yellow line (cross)|黄ライン（十字）
+|
+|
+|
+|
+|
+Yellow line (bottom)|黄ライン（下）
+Huang line (top)|黄ライン（上）
+Yellow line (rectangle)|黄ライン（矩形）
+|
+|
+|
+|
+|
+Move launcher deck side door (yellow)|移動発射台デッキ側面ドア（黄）
+Move launcher deck side|移動発射台デッキ側面
+Move launcher deck side door (blue)|移動発射台デッキ側面ドア（青）
+|
+|
+|
+|
+|
+Dolly (left)|ドーリー（左）
+Move launcher stand Deck side lower part|移動発射台デッキ側面下部
+Dolly (right)|ドーリー（右）
+|
+|
+|
+|
+|
+|
+|
+|
+|
+Antenna|アンテナ
+Antenna|アンテナ
+Antenna|アンテナ
+Radar|レーダー
+Radar|レーダー
+Radar|レーダー
+Missile|ミサイル
+|
+Antenna|アンテナ
+Antenna|アンテナ
+Antenna|アンテナ
+Radar|レーダー
+Radar|レーダー
+Radar|レーダー
+Missile|ミサイル
+|
+Antenna|アンテナ
+Antenna|アンテナ
+Antenna|アンテナ
+Radar|レーダー
+Radar|レーダー
+Radar|レーダー
+Missile|ミサイル
+|
+Antenna|アンテナ
+Antenna|アンテナ
+Antenna|アンテナ
+Radar|レーダー
+Radar|レーダー
+Radar|レーダー
+Missile|ミサイル
+|
+Missile launch vehicle|ミサイル発射車両
+Missile launch vehicle|ミサイル発射車両
+Missile launch vehicle|ミサイル発射車両
+|
+|
+|
+Missile|ミサイル
+|
+Missile launch vehicle|ミサイル発射車両
+Missile launch vehicle|ミサイル発射車両
+Missile launch vehicle|ミサイル発射車両
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|

@@ -1,0 +1,256 @@
+﻿Transparent|透明
+The sun|太陽
+Mercury|水星
+Venus|金星
+The earth|地球
+Moon|月
+Mars|火星
+Jupiter|木星
+Saturn|土星
+Saturn|土星
+Saturn|土星
+Uranus|天王星
+Neptune|海王星
+Pluto|冥王星
+Light of the sun|太陽の光
+Asteroid|小惑星
+Imaginary planet|架空の惑星
+Imaginary planet|架空の惑星
+Imaginary planet|架空の惑星
+Imaginary planet|架空の惑星
+Artificial planet|人工惑星
+Comet|彗星
+Comet|彗星
+Aircraft station (vertical)|航宙機発着場（縦）
+Space Station|宇宙ステーション
+Space Station|宇宙ステーション
+Space Station|宇宙ステーション
+Satellite|人工衛星
+A ship|航宙艦
+A ship|航宙艦
+Crater|クレーター
+Aircraft station (vertical)|航宙機発着場（縦）
+Debris|デブリ
+Asteroids|小惑星群
+Induction light (sideways)|誘導灯（横）
+Induction light (vertical)|誘導灯（縦）
+Aircraft departure and arrival landing (sideways)|航宙機発着場（横）
+Aircraft departure and arrival landing (sideways)|航宙機発着場（横）
+Aircraft departure and arrival landing (sideways)|航宙機発着場（横）
+Aircraft station (vertical)|航宙機発着場（縦）
+Capsule type bed (sideways) case|カプセル型ベッド（横）ケース
+Capsule type bed (sideways) case|カプセル型ベッド（横）ケース
+Capsule type bed (sideways) case|カプセル型ベッド（横）ケース
+Capsule type bed (vertical) case|カプセル型ベッド（縦）ケース
+Capsule type bed (vertical) |カプセル型ベッド（縦）
+Hatch Door|ハッチドア
+Hatch|ハッチ
+Hatch Door|ハッチドア
+Capsule type bed (sideways)|カプセル型ベッド（横）
+Capsule type bed (sideways)|カプセル型ベッド（横）
+Capsule type bed (sideways)|カプセル型ベッド（横）
+Capsule type bed (vertical) case|カプセル型ベッド（縦）ケース
+Capsule type bed (vertical)|カプセル型ベッド（縦）
+Hatch|ハッチ
+Hatch|ハッチ
+Hatch|ハッチ
+Capsule type bed (sideways)|カプセル型ベッド（横）
+Capsule type bed (sideways)|カプセル型ベッド（横）
+Capsule type bed (sideways)|カプセル型ベッド（横）
+Capsule type bed (vertical) case|カプセル型ベッド（縦）ケース
+Capsule type bed (vertical)|カプセル型ベッド（縦）
+|
+Hatch|ハッチ
+|
+Aerial projection type imaging device|空中投影型映像装置
+Aerial projection type imaging device|空中投影型映像装置
+Aerial projection type imaging device|空中投影型映像装置
+Imaging device|映像装置
+Imaging device|映像装置
+Imaging device|映像装置
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Aerial projection type imaging device|空中投影型映像装置
+Aerial projection type imaging device|空中投影型映像装置
+Aerial projection type imaging device|空中投影型映像装置
+Imaging device|映像装置
+Imaging device|映像装置
+Imaging device|映像装置
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Aerial projection type imaging device|空中投影型映像装置
+Aerial projection type imaging device|空中投影型映像装置
+Aerial projection type imaging device|空中投影型映像装置
+Imaging device|映像装置
+Imaging device|映像装置
+Imaging device|映像装置
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Space display|宙域表示装置
+Space display|宙域表示装置
+Space display|宙域表示装置
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Space display|宙域表示装置
+Space display|宙域表示装置
+Space display|宙域表示装置
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Vending machine|自動販売機
+Space display|宙域表示装置
+Space display|宙域表示装置
+Space display|宙域表示装置
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Monitor display|モニタ表示
+Vending machine|自動販売機
+Small picture device|小型映像装置
+Small picture device|小型映像装置
+Small picture device|小型映像装置
+Small picture device|小型映像装置
+Small picture device|小型映像装置
+Small picture device|小型映像装置
+Personal computer (sideways)|パソコン（横）
+Personal computer (sideways)|パソコン（横）
+Personal computer (front)|パソコン（前）
+Personal computer (front)|パソコン（前）
+Personal computer (front)|パソコン（前）
+Personal computer (front)|パソコン（前）
+Personal computer (back)|パソコン（後）
+Personal computer (back)|パソコン（後）
+Personal computer (sideways)|パソコン（横）
+Personal computer (sideways)|パソコン（横）
+Desk|デスク
+Desk|デスク
+Desk|デスク
+Desk|デスク
+Desk|デスク
+Desk|デスク
+Small aerial projection type imaging device|小型空中投影型映像装置
+Small aerial projection type imaging device|小型空中投影型映像装置
+Radar|レーダー
+Emergency button|緊急用ボタン
+Emergency button|緊急用ボタン
+Emergency button|緊急用ボタン
+|
+Chair (horizontal) for display adjustment|椅子（横）表示調整用
+Chair (horizontal) for display adjustment|椅子（横）表示調整用
+|
+Curved desk|曲線デスク
+Curved desk|曲線デスク
+Large desk|大型デスク
+Curved desk|曲線デスク
+Curved desk|曲線デスク
+Chair (sideways)|椅子（横）
+Chair (sideways)|椅子（横）
+Chair (back)|椅子（後）
+Curved desk|曲線デスク
+Curved desk|曲線デスク
+Aerial projection type keyboard (after)|空中投影型キーボード（後）
+Curved desk|曲線デスク
+Curved desk|曲線デスク
+Chair (sideways)|椅子（横）
+Chair (sideways)|椅子（横）
+Chair (back)|椅子（後）
+Desk (Vertical)|デスク（縦）
+Captain device|艦長用デバイス
+Captain's chair (after)|艦長用椅子（後）
+Captain device|艦長用デバイス
+Desk (vertical) end|デスク（縦）端
+Captain device|艦長用デバイス
+Captain's chair (front)|艦長用椅子（前）
+Captain device|艦長用デバイス
+Small space display|小型宙域表示装置
+Captain device|艦長用デバイス
+Captain's chair (after)|艦長用椅子（後）
+Captain device|艦長用デバイス
+Desk (vertical) end|デスク（縦）端
+Captain device|艦長用デバイス
+Captain's chair (front)|艦長用椅子（前）
+Captain device|艦長用デバイス
+Curved desk|曲線デスク
+Curved desk|曲線デスク
+Aerial projection type keyboard (front)|空中投影型キーボード（前）
+Curved desk|曲線デスク
+Curved desk|曲線デスク
+Standalone imaging equipment (sideways)|スタンドアロン映像装置（横）
+Stand-alone imaging equipment (front)|スタンドアロン映像装置（前）
+Standalone imaging equipment (sideways)|スタンドアロン映像装置（横）
+Curved desk|曲線デスク
+Curved desk|曲線デスク
+Large desk|大型デスク
+Curved desk|曲線デスク
+Curved desk|曲線デスク
+Standalone imaging equipment (sideways)|スタンドアロン映像装置（横）
+Stand-alone imaging equipment (front)|スタンドアロン映像装置（前）
+Standalone imaging equipment (sideways)|スタンドアロン映像装置（横）
+Transfer device (back)|転送装置（後）
+Transfer device (back)|転送装置（後）
+Transfer device (back)|転送装置（後）
+Transfer device (front)|転送装置（前）
+Transfer device (front)|転送装置（前）
+Transfer device (front)|転送装置（前）
+Large computer (sideways)|大型コンピューター（横）
+Large computer (sideways)|大型コンピューター（横）
+Transfer device (back)|転送装置（後）
+Transfer device (back)|転送装置（後）
+Transfer device (back)|転送装置（後）
+Transfer device (front)|転送装置（前）
+Transfer device (front)|転送装置（前）
+Transfer device (front)|転送装置（前）
+Large computer (sideways)|大型コンピューター（横）
+Large computer (sideways)|大型コンピューター（横）
+Transfer device (back)|転送装置（後）
+Transfer device (back)|転送装置（後）
+Transfer device (back)|転送装置（後）
+Transfer device (front)|転送装置（前）
+Transfer device (front)|転送装置（前）
+Transfer device (front)|転送装置（前）
+Treasure Chest|宝箱
+Large computer (front)|大型コンピューター（前）
+Transfer device (back)|転送装置（後）
+Transfer device (back)|転送装置（後）
+Transfer device (back)|転送装置（後）
+Transfer device (front)|転送装置（前）
+Transfer device (front)|転送装置（前）
+Transfer device (front)|転送装置（前）
+Treasure Chest|宝箱
+Large computer (front)|大型コンピューター（前）
+Ring type transfer device|リング型転送装置
+Ring type transfer device|リング型転送装置
+Ring type transfer device|リング型転送装置
+Large culture layer|大型培養層
+Large culture layer|大型培養層
+Large culture layer|大型培養層
+Commercial culture layer|汎用培養層
+Broken floor|壊れた床
+Ring type transfer device|リング型転送装置
+Ring type transfer device|リング型転送装置
+Ring type transfer device|リング型転送装置
+Large culture layer|大型培養層
+Large culture layer|大型培養層
+Large culture layer|大型培養層
+Commercial culture layer|汎用培養層
+Broken floor|壊れた床
+Ring type transfer device|リング型転送装置
+Ring type transfer device|リング型転送装置
+Ring type transfer device|リング型転送装置
+Large culture layer|大型培養層
+Large culture layer|大型培養層
+Large culture layer|大型培養層
+Commercial culture layer|汎用培養層
+Broken floor|壊れた床
+Floor Joint|床面ジョイント
+Floor Joint|床面ジョイント
+Floor Joint|床面ジョイント
+Large culture layer|大型培養層
+Large culture layer|大型培養層
+Large culture layer|大型培養層
+Broken floor|壊れた床
+Broken floor|壊れた床
